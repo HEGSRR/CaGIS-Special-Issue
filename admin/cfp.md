@@ -1,4 +1,4 @@
-**Tentative Title:** Toward a Science of Scaling in Landscape Ecology 
+**Tentative Title:** The Next Steps for Research on R&R in the Cartographic and Geographic Information Sciences 
 
 **Guest Editors:** Peter Kedron, Joseph Holler
 
