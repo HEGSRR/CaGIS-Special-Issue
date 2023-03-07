@@ -11,13 +11,13 @@ Conversely, the lack of reproducibility is increasingly becoming a barrier betwe
 
 In keeping with geography's diverse and often debated traditions, attention to R&R has been slower to develop in geography than in other fields (Sui and Kedron, 2021; Kedron and Holler 2021).
 The heterogeneities and dependencies that characterizes geographic phenomena suggest that the use of R&R to check and extend the claims of prior work may be difficult and may even necessitate the recognition that replication across space and time must be weak (Goodchild and Li, 2021).
-Furthermore, the results research in cartography and geographic information science  are more heterogeneous than the results of statistical hypothesis tests common in other disciplines, requiring further research on appropriate methods for comparing the results of reproduction and replication studies to prior studies.
+Furthermore, the results of research in cartography and geographic information science  are more heterogeneous than the results of statistical hypothesis tests common in other disciplines, requiring further research on appropriate methods for comparing the results of reproduction and replication studies to prior studies.
 The volume and complexity of spatial data and computations presents its own challenges for R&R.
 However, there is reason to believe that these unique challenges to achieving R&R also offer unique opportunities to examine and advance R&R as an epistemological tool for advancing knowledge in cartography and geographic information science.
 
 To that end, we invite research paper presentations that advance reproducibility and/or replicability (R&R) in the cartographic and geographic information sciences.
 We encourage submissions that develop new R&R related infrastructure, examine a subfield of cartography or GIScience in light of R&R, or introduce R&R-related advances made in other fields into cartography and GIScience.
-We also encourage new reviews and perspectives that extend past simply summaries of the current state of the field and offer new insights into where a focus on R&R might take geographic information science.
+We also encourage new reviews and perspectives that extend past summaries of the current state of the field and offer new insights into where a focus on R&R might take geographic information science.
 Finally, we encourage the submission of high-quality attempts to reproduce and internally validate important studies, or replication attempts that seek to test existing methods and explanations in new geographic contexts.
 
 **Timeline**
